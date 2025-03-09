@@ -1,0 +1,1 @@
+nacidos basicamente ya que hubo la necesidad  de entender los procesos internos de los sistemas complejo que maneja una compañia en su area de sistemas

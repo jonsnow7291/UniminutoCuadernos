@@ -1,4 +1,5 @@
 ## Idea principal
+
 La idea principal de esta unidad es  el  humanismo cristiano como una base para la construcción de los ciudadanos integrales(basicamente un ciudadadano modelo)
 
 ### Puntos adicionales 

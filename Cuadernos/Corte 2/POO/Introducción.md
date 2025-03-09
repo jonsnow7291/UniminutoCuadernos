@@ -36,7 +36,7 @@ Nombre : String
 Apellido: String
 Elo: String
 
-MoverFichas
+MoverFichas();
 
 }
 
